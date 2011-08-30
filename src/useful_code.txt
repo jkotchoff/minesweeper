@@ -1,0 +1,4 @@
+del *.class
+javac -classpath .;"C:\Program Files\Netscape\Communicator\Program\java\classes\java40.jar";%classpath% HighScores.java
+javac Minesweeper.java
+jar -cvf Minesweeper.jar *.class *.gif

@@ -1,0 +1,14 @@
+<topScores>
+	<numberScoresRecorded>5</numberScoresRecorded>
+	<template>
+		<timeTaken>999</timeTaken>
+		<name>Anonymous</name>
+		<dateRecorded>01/01/2001</dateRecorded>
+	</template>
+	<Beginner>
+		<score><timeTaken>9</timeTaken><name>Jason%20Kotchoff</name><dateRecorded>30/01/2002</dateRecorded></score><score><timeTaken>11</timeTaken><name>Robyn</name><dateRecorded>1/11/2002</dateRecorded></score><score><timeTaken>12</timeTaken><name>Robyn</name><dateRecorded>1/11/2002</dateRecorded></score><score><timeTaken>13</timeTaken><name>Jon</name><dateRecorded>30/01/2002</dateRecorded></score><score><timeTaken>13</timeTaken><name>Robyn</name><dateRecorded>30/01/2002</dateRecorded></score><score><timeTaken>15</timeTaken><name>Bob%20the%20Builder</name><dateRecorded>30/01/2002</dateRecorded></score><score><timeTaken>15</timeTaken><name>Jon</name><dateRecorded>30/01/2002</dateRecorded></score><score><timeTaken>24</timeTaken><name>Robyn</name><dateRecorded>30/01/2002</dateRecorded></score><score><timeTaken>30</timeTaken><name>Dean%20P</name><dateRecorded>30/01/2002</dateRecorded></score><score><timeTaken>187</timeTaken><name>Robert%20Russell</name><dateRecorded>30/01/2002</dateRecorded></score></Beginner>
+	<Intermediate>
+		<score><timeTaken>59</timeTaken><name>Jason%20Kotchoff</name><dateRecorded>30/01/2002</dateRecorded></score><score><timeTaken>68</timeTaken><name>Samuel%20L%20Jackson</name><dateRecorded>31/01/2002</dateRecorded></score><score><timeTaken>71</timeTaken><name>Robyn%20</name><dateRecorded>30/01/2002</dateRecorded></score><score><timeTaken>81</timeTaken><name>Robyn</name><dateRecorded>1/11/2002</dateRecorded></score><score><timeTaken>82</timeTaken><name>Sammy%20Toucan</name><dateRecorded>1/11/2002</dateRecorded></score><score><timeTaken>85</timeTaken><name>B%20O%20B%20da%20B%20U%20I%20L%20D%20A</name><dateRecorded>30/01/2002</dateRecorded></score><score><timeTaken>101</timeTaken><name>Shaune%20Jenkinson</name><dateRecorded>30/01/2002</dateRecorded></score></Intermediate>
+	<Expert>
+		<score><timeTaken>187</timeTaken><name>Jason%20Kotchoff</name><dateRecorded>30/01/2002</dateRecorded></score></Expert>
+</topScores>

@@ -1,0 +1,29 @@
+<topScores>
+	<numberScoresRecorded>50</numberScoresRecorded>
+	<template>
+		<timeTaken>999</timeTaken>
+		<name>Anonymous</name>
+		<dateRecorded>01/01/2001</dateRecorded>
+	</template>
+	<beginner>
+		<topScore>
+			<timeTaken>999</timeTaken>
+			<name>Anonymous</name>
+			<dateRecorded>01/01/2001</dateRecorded>
+		</topScore>
+	</beginner>
+	<intermediate>
+		<topScore>
+			<timeTaken>999</timeTaken>
+			<name>Anonymous</name>
+			<dateRecorded>01/01/2001</dateRecorded>
+		</topScore>
+	</intermediate>
+	<expert>
+		<topScore>
+			<timeTaken>999</timeTaken>
+			<name>Anonymous</name>
+			<dateRecorded>01/01/2001</dateRecorded>
+		</topScore>
+	</expert>
+</topScores>

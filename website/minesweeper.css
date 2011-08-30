@@ -1,0 +1,15 @@
+.smallpageheader {font-family:arial,sans-serif,verdana; font-size:16pt; color:#8A4949; font-weight:bold};
+.pageheader {font-family:arial,sans-serif,verdana; font-size:30pt; color:#8A4949; font-weight:bold};
+BODY {font-family:sans-serif,verdana,arial; font-size:12pt; color:#000000};
+.author {font-family:arial,sans-serif,verdana; font-size:9pt; color:#CC0000; text-decoration: none};
+.emailauthor:link {font-family:arial,sans-serif,verdana; font-size:9pt; color:#CC0000; text-decoration: none};
+.emailauthor:visited {font-family:arial,sans-serif,verdana; font-size:9pt; color:#CC0000; text-decoration: none};
+.emailauthor:hover {font-family:arial,sans-serif,verdana; font-size:9pt; color:#CC0000; text-decoration: underline};
+A:link {font-family:arial,sans-serif,verdana; font-size:11pt; color:#CC0000; text-decoration: none};
+A:visited {font-family:arial,sans-serif,verdana; font-size:11pt; color:#FF0000; text-decoration: none};
+A:hover {font-family:arial,sans-serif,verdana; font-size:11pt; color:#CC0000; text-decoration: underline};
+.click {font-family:arial,sans-serif,verdana; font-size:9pt; color:#8A4949; font-weight: bold};
+.popupheader {font-family:arial,sans-serif,verdana; font-size:14pt; color:#8A4949; font-weight:bold};
+UL {margin:0px 0px 0px 0px; list-style-position:inside}
+LI {font-size:11pt;font-style:italic};
+.small {font-size:9pt;};

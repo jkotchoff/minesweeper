@@ -1,0 +1,43 @@
+things to fix:
+
+current loading time (b4 implementing pre-loaded images)
+38 seconds
+
+afterwards:
+5 seconds =]
+--------------
+
+IE ver 5 bug list -
+-------------------
+wouldnt fire mouseevents on other components (JKButtons) whilst one is pressed
+have to pack the frame twice (??)
+
+- check i am not calling init() twice (the sound files are being loaded twice)
+- implement custom board
+- implement help
+- save some sound files at the right compression for an applet
+- when the game is won, put flags on any unflagged bombs
+- take all the beginner, intermediate and expert knowledge out of Board and stick in Minesweeper (pass width,
+  height and bombs down when creating boards)
+- store the board location in a cookie (ie. window x and y ords)
+- use javascript to set the parameters passed to the applet so that it can determine which event handling code
+  to use based on the browser type
+- try and get the loadImage method globalised somewhere (i think it's used all over the place).
+  can try passing down a reference to the applet everywhere and using that
+- see C:\jdk1.3\demo\jfc\Metalworks for an example of how to include HTML help files in my application
+- try using the save as option of appletviewer to optimise the applet to avoid the init() method (saves as .ser). see java in a
+  nutshell for reference.
+- consider saving the state of the game when user leaves
+  eg. write the board_type to a cookie or something
+- create a status bar that shows the loading status
+- put a note on the minesweeper HTML page that the beginner board is 8*8 as per win98 not 9*9 as per win2000
+
+WEBPAGE
+- create an animated gif background that imitates the matrix's scrolling green numbers
+
+OBFUSCATESTRIPPER
+- create a java gui that accepts file locations and strips whitespace from the
+  files
+
+PHOTO ALBUM
+- create a photo album generator (generates js/htm/xml/xsl for photo albums)

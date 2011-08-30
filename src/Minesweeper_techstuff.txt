@@ -1,0 +1,15 @@
+The front end (User Interface and game functionality) was coded entirely in Java utilising the standard java.AWT package (in order to make the applet accessible to all browsers on all platforms using the browsers JVM).  
+
+The back-end comprises of PHP server-side scripting to maintain the high scores on an Apache web-server.
+
+The high scores are logged in XML, and communication between the Applet and the PHP is hence via XML (However in order to process the XML inside the Applet, I created a custom XML Parser -JKXML.java- due to the lack of support in Java's standard API).
+
+I also implemented user-specific high scores and preferences utilising (-insert netscape class here-) that sets a cookie on the clients machine using JavaScript.
+
+Unfortunately certain web Browsers (for example: Microsoft Internet Explorer version 5) have buggy JVM's and I was therefore required to introduce vendor specific event handling and window initialisation.  Internet Explorer also lacked support for the Java.util.Vector class and as a result, I wrote my own custom data structure (JKLinkedList.java).
+
+Here are some links to the custom components, xml handlers and data structures I created: 	
+
+
+eZ xml: http://developer.ez.no/article/articlestatic/233/1/42/
+NanoXML: http://nanoxml.sourceforge.net/
